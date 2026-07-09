@@ -1,6 +1,6 @@
 # Hot Potato Bot Privacy Policy
 
-**Last Updated:** July 2, 2026
+**Last Updated:** July 9, 2026
 
 ## 1. Introduction
 
@@ -18,6 +18,7 @@ The Bot may collect and store the following information as required for its func
 * Achievements and gameplay statistics
 * Suggestions submitted through the Bot, along with userId, username, serverId
 * Configuration settings for servers
+* Discord presence information (online/offline status), accessed temporarily during gameplay and not stored
 
 The Bot does **not** collect:
 
@@ -38,6 +39,9 @@ The collected information is used solely to operate and improve the Bot, includi
 * Storing server-specific settings
 * Processing commands and interactions
 * Responding to suggestions submitted through the Bot
+* Temporarily checking a user's online/offline status during Hot Potato gameplay to determine reward distribution when a bomb is passed to an offline player
+
+The Bot does not store, log, or retain users' online/offline status. Presence information is accessed only when required for gameplay, used immediately to determine rewards, and then discarded. It is not used for tracking user activity or any other purpose.
 
 ## 4. Data Sharing
 
